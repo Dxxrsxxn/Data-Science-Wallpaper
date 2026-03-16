@@ -1,2 +1,2 @@
-# Data-Science-Wallpaper
+# My_Projects
 DHARSHAN S
